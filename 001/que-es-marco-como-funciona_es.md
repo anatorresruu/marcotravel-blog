@@ -19,7 +19,7 @@ MARCO nace para cambiar esa forma de preparar un viaje.
 
 Somos un planificador de viajes con inteligencia artificial que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
 
-## ¿Por qué planificar un viaje sigue siendo tan complicado?
+## Planificar un viaje sigue siendo algo complicado
 
 Hoy tenemos acceso a más información sobre destinos que nunca: blogs, vídeos, redes sociales, mapas y guías.
 
@@ -97,8 +97,6 @@ La respuesta fue construir la herramienta que nos habría gustado tener: una pla
 
 MARCO todavía está creciendo, incorporando destinos y mejorando la experiencia. Cada opinión y cada itinerario generado nos ayudan a entender mejor qué necesita una persona cuando empieza a preparar su próxima aventura.
 
-**Menos fricción. Más mundo.**
-
 Creemos que la planificación no debería ser el peaje que tenemos que pagar antes de viajar. También puede ser una parte ilusionante del proceso: el momento en el que un destino empieza a tomar forma y una idea se convierte en algo real.
 
 MARCO quiere ayudarte a llegar hasta ese punto con menos esfuerzo.
@@ -106,6 +104,8 @@ MARCO quiere ayudarte a llegar hasta ese punto con menos esfuerzo.
 Sin decenas de pestañas. Sin planes perdidos en diferentes aplicaciones. Sin tener que empezar desde cero cada vez que cambia una decisión.
 
 Solo tú, el destino y una forma más sencilla de organizar todo lo que quieres vivir.
+
+
 
 **Menos fricción. Más mundo. Bienvenidos a MARCO.**
 
