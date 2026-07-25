@@ -19,7 +19,7 @@ MARCO was created to change the way we prepare for a trip.
 
 We are an artificial intelligence travel planner that helps turn an idea, a destination, and a set of preferences into a personalized itinerary. A tool designed to simplify the process and make trip planning part of the experience itself.
 
-## Why is planning a trip still so complicated?
+## Planning a trip remains complicated
 
 Today, we have access to more information about destinations than ever before: blogs, videos, social media, maps, and travel guides.
 
@@ -96,8 +96,6 @@ Behind the project is a team with experience in technology, design, data, busine
 The answer was to build the tool we would have liked to use ourselves: a platform that combines personalization, technology, and a simple visual experience; one that does not only provide isolated recommendations but helps turn them into a useful plan.
 
 MARCO is still growing, adding destinations, and improving the experience. Every opinion and every generated itinerary helps us better understand what people need when they begin planning their next adventure.
-
-**Less friction. More world.**
 
 We believe planning should not be the price we have to pay before traveling. It can also be an exciting part of the process: the moment when a destination begins to take shape and an idea becomes something real.
 
