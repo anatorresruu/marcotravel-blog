@@ -107,13 +107,14 @@ Sin decenas de pestañas. Sin planes perdidos en diferentes aplicaciones. Sin te
 
 Solo tú, el destino y una forma más sencilla de organizar todo lo que quieres vivir.
 
-<div style="text-align: center; margin: 40px 0 20px;">
-  <p style="margin-bottom: 12px;"><strong>Próximamente en Google Play</strong></p>
-  <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
-    <img src="/001/assets/google-play-badge.png" alt="MARCO estará disponible próximamente en Google Play" style="height: 60px; width: auto;" />
-  </a>
-</div>
-
 **Menos fricción. Más mundo. Bienvenidos a MARCO.**
 
-<!-- Añadir aquí el enlace oficial de descarga de MARCO en Google Play -->
+<p align="left">
+  <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
+    <img
+      src="/001/assets/google-play-badge.png"
+      alt="MARCO estará disponible próximamente en Google Play"
+      width="220"
+    />
+  </a>
+</p>
