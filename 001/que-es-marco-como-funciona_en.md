@@ -55,7 +55,11 @@ The intention is not to provide a generic list of places. The aim is to build a 
 
 Once the itinerary has been generated, you can review it and use it as a starting point. Through the website or the application, MARCO aims to support you both while preparing the trip and once you have reached your destination.
 
-[**Plan your trip**](https://marcotravel.io/)
+<div style="text-align: center; margin: 32px 0;">
+  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
+    Plan your next trip
+  </a>
+</div>
 
 In future articles, we will explain destination search, personalization, itinerary editing, the map, and the different ways to build a trip in more detail. This first article focuses on the idea behind MARCO: making trip organization feel less like an additional job.
 
@@ -105,4 +109,9 @@ Just you, the destination, and a simpler way to organize everything you want to 
 
 **Less friction. More world. Welcome to MARCO.**
 
-<!-- Add the official MARCO Google Play download link here -->
+<div style="text-align: center; margin: 40px 0 20px;">
+  <p style="margin-bottom: 12px;"><strong>Coming soon to Google Play</strong></p>
+  <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
+    <img src="/001/assets/google-play-badge.png" alt="MARCO will be available soon on Google Play" style="height: 60px; width: auto;" />
+  </a>
+</div>
