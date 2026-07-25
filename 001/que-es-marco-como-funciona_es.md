@@ -55,7 +55,11 @@ La intención no es ofrecer una lista genérica de lugares. El objetivo es const
 
 Una vez generado el itinerario, puedes revisarlo y utilizarlo como punto de partida. Desde la web o la aplicación, MARCO busca acompañarte durante la preparación y cuando ya estás en el destino.
 
-[**Planea tu viaje**](https://marcotravel.io/)
+<div style="text-align: center; margin: 32px 0;">
+  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
+    Planea tu próximo viaje
+  </a>
+</div>
 
 En próximos artículos explicaremos con más detalle la búsqueda de destinos, la personalización, la edición de itinerarios, el mapa y las distintas formas de construir un viaje. Este primer artículo se centra en la idea que existe detrás de MARCO: hacer que organizar un viaje deje de sentirse como un trabajo adicional.
 
@@ -102,6 +106,13 @@ MARCO quiere ayudarte a llegar hasta ese punto con menos esfuerzo.
 Sin decenas de pestañas. Sin planes perdidos en diferentes aplicaciones. Sin tener que empezar desde cero cada vez que cambia una decisión.
 
 Solo tú, el destino y una forma más sencilla de organizar todo lo que quieres vivir.
+
+<div style="text-align: center; margin: 40px 0 20px;">
+  <p style="margin-bottom: 12px;"><strong>Próximamente en Google Play</strong></p>
+  <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
+    <img src="/001/assets/google-play-badge.png" alt="MARCO estará disponible próximamente en Google Play" style="height: 60px; width: auto;" />
+  </a>
+</div>
 
 **Menos fricción. Más mundo. Bienvenidos a MARCO.**
 
