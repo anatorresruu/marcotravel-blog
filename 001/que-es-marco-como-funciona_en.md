@@ -109,9 +109,12 @@ Just you, the destination, and a simpler way to organize everything you want to 
 
 **Less friction. More world. Welcome to MARCO.**
 
-<div style="text-align: center; margin: 40px 0 20px;">
-  <p style="margin-bottom: 12px;"><strong>Coming soon to Google Play</strong></p>
+<p align="left">
   <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
-    <img src="/001/assets/google-play-badge.png" alt="MARCO will be available soon on Google Play" style="height: 60px; width: auto;" />
+    <img
+      src="/001/assets/google-play-badge.png"
+      alt="MARCO will be available soon on Google Play"
+      width="220"
+    />
   </a>
-</div>
+</p>
