@@ -1,17 +1,17 @@
 [
   {
-    "slug": "hello-world",
+    "slug": "que-es-marco-como-funciona",
     "path": "001",
     "title": {
-      "en": "🎉 Welcome to the Marco Blog",
-      "es": "🎉 Bienvenido al Blog de Marco"
+      "en": "What is MARCO and how does it work? | AI travel planner",
+      "es": "Qué es MARCO y cómo funciona | Planificador de viajes con IA"
     },
-    "date": "2026-06-16",
+    "date": "2026-07-26",
     "excerpt": {
-      "en": "🌍 We're launching the Marco Travel Blog! Here you'll find travel tips, destination guides, stories from our community, and behind-the-scenes looks at how Marco works.",
-      "es": "🌍 ¡Lanzamos el Blog de Marco Travel! Aquí encontrarás consejos de viaje, guías de destinos, historias de nuestra comunidad y miradas detrás de escena de cómo funciona Marco."
+      "en": "Discover what MARCO is, why it was created, and how it helps you turn a travel idea into a personalized itinerary that is easy to access.",
+      "es": "Descubre qué es MARCO, por qué nació y cómo te ayuda a transformar una idea de viaje en un itinerario personalizado y fácil de consultar."
     },
     "author": "Marco Team",
-    "image": "001/assets/celebrate.webp"
+    "image": "001/assets/marco-planificador-viajes-ia.webp"
   }
 ]
