@@ -7,8 +7,6 @@ author: "Marco Team"
 
 # Adiós al caos: así nació MARCO, una nueva forma de planificar viajes
 
-<img src="/001/assets/marco-travel-planificador-viajes-ia.webp" alt="Presentación de MARCO, el planificador de viajes con inteligencia artificial." style="width: 100%; height: auto;" />
-
 Hacer un viaje debería ser la parte fácil. Elegir un destino, imaginar todo lo que vas a descubrir y empezar a contar los días. Sin embargo, durante demasiado tiempo hemos aceptado que planificar una escapada implica sufrir un poquito.
 
 Entre la primera idea y el momento de hacer la maleta suele aparecer un muro invisible formado por pestañas abiertas, blogs guardados, vídeos pendientes, capturas de pantalla, mapas incompletos y conversaciones de grupo interminables.
@@ -49,7 +47,11 @@ Puede ser un destino que ya tienes decidido, una escapada que estás empezando a
 
 El proceso es sencillo: indicas el destino, las fechas y algunas preferencias básicas. Con esa información, se crea un itinerario organizado que puedes consultar de forma visual.
 
-<img src="/001/assets/marco-travel-screenshots-mobile.webp" alt="Capturas de pantalla de MARCO versión APP." style="width: 100%; height: auto;" />
+<img
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/marco-travel-screenshots-mobile.webp"
+  alt="Capturas de pantalla de MARCO en su versión móvil."
+  style="width: 100%; height: auto;"
+/>
 
 La intención no es ofrecer una lista genérica de lugares. El objetivo es construir una propuesta que tenga en cuenta cómo quieres disfrutar del destino y el tiempo del que dispones.
 
@@ -88,7 +90,7 @@ Seguiremos utilizando este espacio para enseñarte cómo evoluciona la plataform
 <p align="left">
   <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
     <img
-      src="/001/assets/google-play-badge.png"
+      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
       alt="MARCO estará disponible próximamente en Google Play"
       width="220"
     />
