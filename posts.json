@@ -13,5 +13,20 @@
     },
     "author": "Marco Team",
     "image": "001/assets/marco-travel-planificador-viajes-ia.webp"
+  },
+  {
+    "slug": "como-funciona-marco-funcionalidades",
+    "path": "002",
+    "title": {
+      "en": "How MARCO works: a guide to its main features",
+      "es": "Cómo funciona MARCO: guía de sus principales funcionalidades"
+    },
+    "date": "2026-08-02",
+    "excerpt": {
+      "en": "Discover how to start using MARCO: set up your profile, search for a destination, personalize your trip and view your itinerary from its different sections.",
+      "es": "Descubre cómo empezar a utilizar MARCO: configura tu perfil, busca un destino, personaliza tu viaje y consulta el itinerario desde sus diferentes vistas."
+    },
+    "author": "Marco Team",
+    "image": "002/assets/marco-primeros-pasos-funcionalidades.webp"
   }
 ]
