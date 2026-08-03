@@ -15,7 +15,7 @@ Una persona recomienda un restaurante, otra envía un vídeo sobre una playa esc
 
 MARCO nace para cambiar esa forma de preparar un viaje.
 
-Somos un <strong style="color: #4169e1ff;">planificador de viajes con inteligencia artificial</strong> que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
+Somos un <strong style="color: #ff7f50ff;">planificador de viajes con inteligencia artificial</strong> que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
 
 ## Planificar un viaje sigue siendo algo complicado
 
@@ -33,7 +33,7 @@ También cambian las necesidades cuando viajamos solos, en pareja, con amigos o 
 
 Es una plataforma de planificación de viajes que utiliza inteligencia artificial para crear itinerarios personalizados.
 
-En lugar de obligarte a saltar entre buscadores, blogs, mapas y documentos, MARCO reúne el proceso de planificación en un único espacio. El objetivo es que puedas pasar de una idea general a un viaje organizado de una forma sencilla, visual y adaptada a tus preferencias.
+En lugar de obligarte a saltar entre buscadores, blogs, mapas y documentos, MARCO <strong style="color: #ff7f50ff;">reúne el proceso de planificación en un único espacio</strong>. El objetivo es que puedas pasar de una idea general a un viaje organizado de una forma sencilla, visual y adaptada a tus preferencias.
 
 No queremos sustituir la emoción de descubrir un destino ni decidir por ti cómo tienes que viajar. Queremos facilitar el trabajo que existe entre la inspiración y la experiencia real.
 
@@ -69,7 +69,7 @@ MARCO está pensado para personas que quieren organizar sus viajes por su cuenta
 
 Puede ser útil para quienes viajan solos, para parejas que necesitan ponerse de acuerdo, para grupos de amigos que quieren compartir un plan o para familias con diferentes ritmos, intereses y preferencias.
 
-Su funcionamiento es sencillo e intuitivo, por lo que no hace falta tener experiencia utilizando herramientas digitales. Queremos que tanto las personas jóvenes como las mayores puedan crear y consultar sus viajes cómodamente, sin procesos complicados ni conocimientos previos sobre el destino.
+Su <strong style="color: #ff7f50ff;">funcionamiento es sencillo e intuitivo</strong>, por lo que no hace falta tener experiencia utilizando herramientas digitales. Queremos que tanto las personas jóvenes como las mayores puedan crear y consultar sus viajes cómodamente, sin procesos complicados ni conocimientos previos sobre el destino.
 
 MARCO también puede ayudarte si disfrutas preparando cada detalle y necesitas visualizar mejor el resultado, tanto si partes de una idea concreta como si todavía estás explorando diferentes posibilidades.
 
@@ -81,7 +81,7 @@ La idea nació de una situación que muchos viajeros hemos vivido: querer organi
 
 Detrás del proyecto hay un equipo con perfiles relacionados con la tecnología, el diseño, los datos, el negocio y el marketing, unidos por un mismo objetivo: integrar toda la gestión de un viaje bajo una misma herramienta.
 
-Nuestra idea se encuentra en desarrollo constante. Seguimos escuchando a los usuarios, mejorando la experiencia e incorporando progresivamente nuevas funcionalidades que permitan planificar, organizar y disfrutar cada viaje de una forma todavía más sencilla, completa y personalizada. Queremos que MARCO evolucione junto a las necesidades reales de quienes lo utilizan.
+Nuestra idea se encuentra en desarrollo constante. Seguimos escuchando a los usuarios, mejorando la experiencia e incorporando progresivamente nuevas funcionalidades que permitan planificar, organizar y <strong style="color: #ff7f50ff;">disfrutar cada viaje de una forma todavía más sencilla, completa y personalizada</strong>. Queremos que MARCO evolucione junto a las necesidades reales de quienes lo utilizan.
 
 Seguiremos utilizando este espacio para enseñarte cómo evoluciona la plataforma, presentar sus próximas funcionalidades y hablar de destinos, tendencias y todo aquello que hace que viajar merezca la pena.
 

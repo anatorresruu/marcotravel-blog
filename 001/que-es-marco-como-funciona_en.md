@@ -15,7 +15,7 @@ One person recommends a restaurant, another sends a video about a hidden beach, 
 
 MARCO was created to change the way we prepare for a trip.
 
-We are an artificial intelligence travel planner that helps turn an idea, a destination, and a set of preferences into a personalized itinerary. A tool designed to simplify the process and make planning a trip part of the experience itself.
+We are an <strong style="color: #ff7f50ff;">artificial intelligence travel planner</strong> that helps turn an idea, a destination, and a set of preferences into a personalized itinerary. A tool designed to simplify the process and make planning a trip part of the experience itself.
 
 ## Planning a trip is still complicated
 
@@ -33,7 +33,7 @@ Our needs also change depending on whether we travel alone, as a couple, with fr
 
 It is a travel planning platform that uses artificial intelligence to create personalized itineraries.
 
-Instead of forcing you to jump between search engines, blogs, maps, and documents, MARCO brings the planning process together in one place. The aim is to help you move from a general idea to an organized trip in a simple, visual way that is adapted to your preferences.
+Instead of forcing you to jump between search engines, blogs, maps, and documents, MARCO <strong style="color: #ff7f50ff;">brings the planning process together in one place</strong>. The aim is to help you move from a general idea to an organized trip in a simple, visual way that is adapted to your preferences.
 
 We do not want to replace the excitement of discovering a destination or decide how you should travel. We want to simplify the work that exists between inspiration and the real experience.
 
@@ -69,7 +69,7 @@ MARCO is designed for people who want to organize their trips independently but 
 
 It can be useful for solo travelers, couples who need to agree on a plan, groups of friends who want to share an itinerary, or families with different interests, preferences, and travel rhythms.
 
-It is simple and intuitive to use, so you do not need any experience with digital tools. We want both younger and older people to be able to create and view their trips comfortably, without complicated processes or previous knowledge of the destination.
+It is <strong style="color: #ff7f50ff;">simple and intuitive to use</strong>, so you do not need any experience with digital tools. We want both younger and older people to be able to create and view their trips comfortably, without complicated processes or previous knowledge of the destination.
 
 MARCO can also help if you enjoy preparing every detail and need a better way to visualize the result, whether you already have a specific idea or are still exploring different possibilities.
 
@@ -81,7 +81,7 @@ The idea came from a situation that many travelers have experienced: wanting to 
 
 Behind the project is a team with experience in technology, design, data, business, and marketing, brought together by the same goal: to integrate every aspect of trip management into a single tool.
 
-Our idea is constantly evolving. We continue to listen to users, improve the experience, and gradually introduce new features that make it even easier, more complete, and more personalized to plan, organize, and enjoy each trip. We want MARCO to evolve alongside the real needs of the people who use it.
+Our idea is constantly evolving. We continue to listen to users, improve the experience, and gradually introduce new features that <strong style="color: #ff7f50ff;">make it even easier, more complete, and more personalized to plan, organize, and enjoy each trip</strong>. We want MARCO to evolve alongside the real needs of the people who use it.
 
 We will continue to use this space to show you how the platform is evolving, introduce upcoming features, and talk about destinations, trends, and everything that makes traveling worthwhile.
 
