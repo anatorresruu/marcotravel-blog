@@ -15,7 +15,7 @@ Una persona recomienda un restaurante, otra envía un vídeo sobre una playa esc
 
 MARCO nace para cambiar esa forma de preparar un viaje.
 
-Somos un planificador de viajes con inteligencia artificial que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
+Somos un <strong style="color: #4169e1ff;">planificador de viajes con inteligencia artificial</strong> que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
 
 ## Planificar un viaje sigue siendo algo complicado
 
