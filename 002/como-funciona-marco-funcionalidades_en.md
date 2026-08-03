@@ -22,7 +22,7 @@ Creating an account is free and allows you to save your generated itineraries, s
 Within your profile, you can also add your personal details and define aspects such as your usual travel budget, the pace you prefer for each day and the categories that interest you most, including food, culture, nature, entertainment, shopping and wellness. You can also add more specific interests or preferences to help MARCO tailor its recommendations more closely to you.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/002/assets/marco-perfil-explorador-preferencias-en.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/002/assets/marco-explorer-profile-preferences-en.webp"
   alt="Explorer Profile setup and travel preferences in MARCO."
   style="width: 100%; height: auto;"
 />
@@ -42,7 +42,7 @@ The first step is to enter your travel dates or the number of days you have avai
 Next, you will be able to review aspects such as your budget, the intensity of each day and the categories that interest you most, including food, culture, nature and entertainment. You can also add more specific instructions so that the proposal matches what you are looking for even more closely.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/002/assets/marco-boarding-pass-configuracion-viaje-en.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/002/assets/marco-boarding-pass-trip-setup-en.webp"
   alt="The Boarding Pass flow used to configure travel preferences in MARCO."
   style="width: 100%; height: auto;"
 />
