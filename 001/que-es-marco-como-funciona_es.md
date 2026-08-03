@@ -1,5 +1,5 @@
 ---
-title: "Qué es MARCO y cómo funciona | Planificador de viajes con IA"
+title: "Descubre MARCO: una nueva forma de planificar tus viajes"
 date: "2026-07-26"
 excerpt: "Descubre qué es MARCO, por qué nació y cómo te ayuda a transformar una idea de viaje en un itinerario personalizado y fácil de consultar."
 author: "Marco Team"
