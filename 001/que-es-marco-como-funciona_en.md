@@ -1,5 +1,5 @@
 ---
-title: "What is MARCO and how does it work? | AI travel planner"
+title: "Discover MARCO: a new way to plan your trips"
 date: "2026-07-26"
 excerpt: "Discover what MARCO is, why it was created, and how it helps you turn a travel idea into a personalized itinerary that is easy to access."
 author: "Marco Team"

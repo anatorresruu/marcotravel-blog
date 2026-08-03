@@ -1,5 +1,5 @@
 ---
-title: "Qué es MARCO y cómo funciona | Planificador de viajes con IA"
+title: "Descubre MARCO: una nueva forma de planificar tus viajes"
 date: "2026-07-26"
 excerpt: "Descubre qué es MARCO, por qué nació y cómo te ayuda a transformar una idea de viaje en un itinerario personalizado y fácil de consultar."
 author: "Marco Team"
@@ -15,7 +15,7 @@ Una persona recomienda un restaurante, otra envía un vídeo sobre una playa esc
 
 MARCO nace para cambiar esa forma de preparar un viaje.
 
-Somos un planificador de viajes con inteligencia artificial que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
+Somos un <strong style="color: #4169e1ff;">planificador de viajes con inteligencia artificial</strong> que ayuda a convertir una idea, un destino y unas preferencias en un itinerario personalizado. Una herramienta pensada para simplificar el proceso y hacer que preparar un viaje también forme parte de la experiencia.
 
 ## Planificar un viaje sigue siendo algo complicado
 
