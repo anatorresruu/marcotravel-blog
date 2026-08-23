@@ -1,5 +1,7 @@
 <div style="font-family: 'Montserrat', sans-serif; color: #000000;">
-# Qué hacer un verano en Galicia: 3 rutas para elegir según tu estilo
+
+<h1 style="font-size: 2.25em; font-weight: 700; line-height: 1.2; margin-bottom: 24px; color: #000000;">Qué hacer un verano en Galicia: 3 rutas para elegir según tu estilo</h1>
+Qué hacer un verano en Galicia: 3 rutas para elegir según tu estilo
 
 Siempre nos persigue el mismo tópico: que si en Galicia llueve todo el año, que si aquí el verano es un espejismo de tres días. Pero quienes vivimos aquí sabemos la verdad. Cuando aprieta el calor, esta tierra se convierte en una especie de paraíso a la carta que bien podríamos bautizar como **Galifornia**: playas de arena blanca que parecen del Caribe, atardeceres que se quedan grabados y una luz que aguanta hasta las diez de la noche. La diferencia es que aquí, en vez de aguacate, hay <span style="color: #FF7F50; font-weight: bold;">pulpo á feira</span>, y en vez de olas y surfistas californianos, hay bateas de mejillones asomando en cada ría.
 
@@ -23,7 +25,7 @@ Empieza por **Pontevedra**, sin prisa. Su casco viejo es de los mejor conservado
 
 Continúa hacia **Combarro** y come allí. Sus hórreos están construidos sobre las propias rocas, tan pegados a la línea de agua que en marea alta parece que floten. Después de comer, un paseo por las calles estrechas de piedra, entre cruceiros y casas de pescadores, es una buena forma de digerir antes de poner rumbo a Bueu.
 
-![Hórreos de Combarro en Rías Baixas junto al mar](horreos-combarro-rias-baixas.webp)
+![Hórreos de Combarro en Rías Baixas junto al mar](https://st5.depositphotos.com/15323148/66365/i/600/depositphotos_663659642-stock-photo-fishing-village-combarro-main-attraction.jpg)
 
 Para cerrar el día, el momento que no conviene perderse: <span style="color: #FF7F50; font-weight: bold;">el atardecer en Tuia o Portomaior</span>. Ninguna de las dos playas se disfruta con prisa, así que llega con tiempo. En Portomaior, el chiringuito *Carmela* es una apuesta segura, con buena mesa frente al mar. En Tuia, más recogida y con menos gente, el *Chiringuito Galifornia* tiene fama de sus mojitos. Ambos ofrecen servicio de cenas y, algunas noches de verano, conciertos en directo mientras el sol se despide sobre la ría. Sea cual sea tu elección, el atardecer es la mejor forma de cerrar el día. No hace falta más.
 
